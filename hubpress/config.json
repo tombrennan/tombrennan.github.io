@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "tombrennan",
-    "repositoryName": "tombrennan.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "uno"
-  }
-}
+{"meta":{"username":"tombrennan","repositoryName":"tombrennan.github.io","branch":"master"},"site":{"title":"tombrennan","url":"https://tombrennan.github.io"},"socialnetwork":{},"theme":{"name":"uno","url":"//tombrennan.github.io/themes/uno"}}
